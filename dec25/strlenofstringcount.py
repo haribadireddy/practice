@@ -9,4 +9,4 @@ def count(str):
     return greater,smaller
 str=["hari","pavan","sai","krishna","hokesh"]
 greater,smaller = count(str)
-print("greater:() and smaller:()".format(greater,smaller))
+print(greater,smaller)
